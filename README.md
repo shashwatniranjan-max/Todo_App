@@ -15,8 +15,6 @@ Open `bettertodo.html` (or rename to `index.html`) in a browser. No build steps.
 - HTML, CSS, JavaScript
 - localStorage for persistence
 
-## Screenshots
-Add a screenshot here once deployed.
 
 ## License
 MIT
